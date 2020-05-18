@@ -1,3 +1,4 @@
+PRIYANKA TANAJI GURAV
 # POST-YOUR-WORK-ON-GITHUB
 Date created :    10/05/2020 
 Project Title:  US BIKESHARE DATA
@@ -11,3 +12,10 @@ Project Title:  US BIKESHARE DATA
 •	Would you like to filter the data by month, day, or not at all?
 •	(If they chose month) Which month - January, February, March, April, May, or June?
 •	(If they chose day) Which day - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?
+
+
+Using technology:
+
+You should have Python 3, NumPy, and pandas installed using Anaconda.
+
+
